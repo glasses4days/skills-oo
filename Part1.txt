@@ -13,7 +13,10 @@ What are the three main design advantages that object orientation can provide?
         The use of encapsulation leads to the ability to hide details of the inner workings of code that
         one doesn't need the details for. This is abstraction. 
 
-What is a class
+What is a class?
+    A class is data structure that holds methods and attributes that can be applied to multiple instances. 
+    It also allows us to intentionally structure inheritance.s
+
 
 What is an instance attribute?
     An instance attribute is a class attribute that only applies to a specific instant of that class.
