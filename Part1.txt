@@ -1,0 +1,28 @@
+What are the three main design advantages that object orientation can provide?
+
+    Polymorphism:
+        This is the writing of code that allows for bits of code to be interchanged.
+        Instead of writing something that is one time use or being repetitive, things 
+        can be reused or apply to a greater number of things.
+
+    Encapsulation:
+        This means that we keep classes and the methods that apply to them are all kept in the same place. 
+        From an organizational view, this seems to make things very easy to read and easy to change. 
+
+    Abstraction:
+        The use of encapsulation leads to the ability to hide details of the inner workings of code that
+        one doesn't need the details for. This is abstraction. 
+
+What is a class
+
+What is an instance attribute?
+    An instance attribute is a class attribute that only applies to a specific instant of that class.
+
+What is a method?
+    A method is a function that is applied to a specific class. 
+
+What is an instance in object orientation?
+    In oo an instance is a single occurence of a class. 
+
+How is a class attribute different than an instance attribute? Give an example of when you might use each.
+
